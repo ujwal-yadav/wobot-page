@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wobot-page/static/css/main.c47312e3.css",
+    "main.css": "/wobot-page/static/css/main.5e39758c.css",
     "main.js": "/wobot-page/static/js/main.2d46b3ad.js",
     "static/js/787.e324190a.chunk.js": "/wobot-page/static/js/787.e324190a.chunk.js",
     "static/media/Layout.svg": "/wobot-page/static/media/Layout.27fed34bf230158ff529.svg",
     "index.html": "/wobot-page/index.html",
-    "main.c47312e3.css.map": "/wobot-page/static/css/main.c47312e3.css.map",
+    "main.5e39758c.css.map": "/wobot-page/static/css/main.5e39758c.css.map",
     "main.2d46b3ad.js.map": "/wobot-page/static/js/main.2d46b3ad.js.map",
     "787.e324190a.chunk.js.map": "/wobot-page/static/js/787.e324190a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c47312e3.css",
+    "static/css/main.5e39758c.css",
     "static/js/main.2d46b3ad.js"
   ]
 }
